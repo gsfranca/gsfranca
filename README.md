@@ -3,7 +3,7 @@ Hello! I am a student passionate about the world of technology, with a special e
 
 I'm improving my knowledge of JavaScript, intending to delve deeper into the Angular framework to expand my web development toolbox further. Furthermore, I am a student of IBM's P-TECH program, which aims to support students in the technology area through lectures and mentoring.
 
-I'm excited to explore the intersections between technology, creativity, and innovation. Let's connect and share ideas!
+I'm excited to explore the intersections between technology, creativity, and innovation. Let's share ideas!
 <br><br>
 ## 💻 My HardSkills:
 ### The Main ones are:

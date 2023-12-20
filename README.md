@@ -1,5 +1,9 @@
 # Hi There, I'm Giovana :blush:
-I've been studying development for 4 years.
+Hello! I am a student passionate about the world of technology, with a special emphasis on Design and Front-end. I use the Laravel framework in most of my projects and have extensive knowledge in CSS, excelling in animations and creating objects using only CSS.
+
+I'm improving my knowledge of JavaScript, intending to delve deeper into the Angular framework to expand my web development toolbox further. Furthermore, I am a student of IBM's P-TECH program, which aims to support students in the technology area through lectures and mentoring.
+
+I'm excited to explore the intersections between technology, creativity, and innovation. Let's connect and share ideas!
 <br><br>
 ## 💻 My HardSkills:
 ### The Main ones are:

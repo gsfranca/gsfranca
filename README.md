@@ -1,7 +1,5 @@
 # Hi There, I'm Giovana :blush:
-Hello! I am a student passionate about the world of technology, with a special emphasis on Design and Front-end. I use the Laravel framework in most of my projects and have extensive knowledge in CSS, excelling in animations and creating objects using only CSS.
-
-I'm improving my knowledge of JavaScript, intending to delve deeper into the React framework to expand my web development toolbox further. Furthermore, I am a student of IBM's P-TECH program, which aims to support students in the technology area through lectures and mentoring.
+Hello! I am a student passionate about the world of technology, firstly, with a special emphasis on Design and Front-end, but now I'm diveing in Back-End world. I use JavaScript (Node.js and React) in most of my projects, but I also have extensive knowledge in CSS, excelling in animations and creating objects using only-CSS.
 
 I'm excited to explore the intersections between technology, creativity, and innovation. Let's share ideas!
 <br><br>
